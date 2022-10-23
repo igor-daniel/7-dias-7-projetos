@@ -15,3 +15,7 @@ Com esse app é possivel saber a clima de qualquer lugar do mundo apenas com o n
 ## Dia 4 Jogo da velha
 ![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/Jogo%20da%20velha/pJogoDaVelha.png)
 Agora é possivel se divertir com os amigos com esse joguinho da velha intuitivo.
+
+## Dia 5 Quadro de desenhos
+![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/quadro%20de%20desenho/printQuadro.png)
+Desenhe oque quiser com essa ferramenta. criado com vanilla js, explorando o canvas.
