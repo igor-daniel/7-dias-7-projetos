@@ -19,3 +19,7 @@ Agora é possivel se divertir com os amigos com esse joguinho da velha intuitivo
 ## Dia 5 Quadro de desenhos
 ![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/quadro%20de%20desenho/printQuadro.png)
 Desenhe oque quiser com essa ferramenta. criado com vanilla js, explorando o canvas.
+
+## Dia 6 Quiz
+![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/quiz/PrintQuiz.png)
+Responda perguntas relacionadas com programação.
