@@ -23,3 +23,7 @@ Desenhe oque quiser com essa ferramenta. criado com vanilla js, explorando o can
 ## Dia 6 Quiz
 ![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/quiz/PrintQuiz.png)
 Responda perguntas relacionadas com programação.
+
+## Dia 7 Arrasta e solta
+![Dashboard](https://github.com/igor-daniel/7-dias-7-projetos/blob/main/arrasta%20e%20solta/Print%20a%20e%20r.png)
+resolva um enigma, colovando os quadrados em ordem.
